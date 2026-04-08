@@ -1,1 +1,1 @@
-"Adicionando nomes dos integrantes".
+"Integrante: Davi Protásio-Teste de Commit".
